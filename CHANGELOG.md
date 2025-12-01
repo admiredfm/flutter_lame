@@ -15,4 +15,11 @@
 - Changed Android package id to `io.github.bestowl.flutter_lame`
 - example: apply Android plugin declaratively
 - example: update dependencies
-- Update SDK constraint to `>=2.18.0 <4.0.0` 
+- Update SDK constraint to `>=2.18.0 <4.0.0`
+
+## 1.0.4
+- Support Google Play's 16 KB page size requirement for Android 15+
+- Update Android compileSdk to 35 (Android 15)
+- Update Android Gradle Plugin to 8.7.3
+- Update Gradle wrapper to 8.9
+- Add explicit NDK ABI filters for 16 KB page size compatibility 

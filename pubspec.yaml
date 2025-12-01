@@ -1,6 +1,6 @@
 name: flutter_lame
 description: Flutter native bindings to LAME (MP3 encoder), bundled with LAME source code.
-version: 1.0.3
+version: 1.0.4
 homepage: https://github.com/BestOwl/flutter_lame
 
 environment:
